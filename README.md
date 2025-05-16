@@ -1,4 +1,4 @@
-# tennis
+# Tennis
 Game Analytics: Unlocking Tennis Data with SportRadar API
  
 Project Title	Game Analytics: Unlocking Tennis Data with SportRadar API
